@@ -1,0 +1,82 @@
+body{
+    margin: 0 auto;
+    background-color: rgb(238, 235, 231);
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    width: 1400px;
+    }
+
+.half-width{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-left: 50px;
+    
+}
+.half-width img{
+    width: 80%;
+    margin-top: 20px;
+}
+.text-area{
+    width: 40%;
+}
+.hero{
+    color:rgba(230, 69, 69, 0.808);
+    
+}
+
+h1{
+    font-size: 30px;
+    color: rgba(27, 26, 26, 0.849);
+}
+.top-link{
+    margin: 10px 0px;
+}
+a{
+    font-size: 20px;
+    color: cornsilk;
+    background-color: rgb(219, 38, 83);
+    padding: 10px 22px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover{
+    color: darkgrey;
+    background-color: rgb(211, 28, 43);
+}
+.center{
+   text-align: center;
+   
+}
+
+ .card-mission{
+    display: flex;
+    }
+.cards{
+    justify-content: center;
+    width: 300px;
+    height: 400px;
+    padding:10px;
+    margin: 50px;
+}
+.card-one{
+    background-color: rgba(224, 54, 54, 0.904);
+    border: 1px solid rgba(224, 54, 54, 0.904);
+    border-radius: 10px;
+    
+}
+.card-two{
+    background-color: rgb(186, 247, 168);
+    border: 1px solid rgb(186, 247, 168);
+    border-radius: 10px;
+}
+.card-three{
+    background-color: rgb(93, 108, 236);
+    border: 1px solid rgba(93, 108, 236);
+    border-radius: 10px;
+}
+.illustrators{
+    width: 210px;
+    height: 210px;
+}
